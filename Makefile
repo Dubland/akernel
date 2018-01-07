@@ -1,4 +1,4 @@
-CROSS_PREFIX ?= arm-none-eabi-
+dsadsanssmCROSS_PREFIX ?= arm-none-eabi-
 
 CC := $(CROSS_PREFIX)gcc
 OBJCOPY := $(CROSS_PREFIX)objcopy
